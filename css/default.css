@@ -8,6 +8,7 @@
 body{
   background-image: url(../img/9694707.jpg),url(../img/DSC_0072.JPG);
   background-repeat: no-repeat, no-repeat;
+  background-size: 5% 5%, cover;
   background-color: lightgray;
   margin: 5px;
 }
