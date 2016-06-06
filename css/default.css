@@ -87,3 +87,17 @@ body{
       #63B3D2 50%,
       #BFE5E2 );
 }
+.transform{
+  font-size: 10px;
+  width: 100px;
+  text-align: center;
+  padding: 45px 0px;
+  margin: 20px;
+  background-color: mediumspringgreen;
+}
+.translateX{
+  transform: translateX(10px);
+}
+.translateY{
+  transform: translateY(10px);
+}
